@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Alkhulaqi</h1>
-<h3 align="center">A future machine learning expert, current backend developer.</h3>
+<h3 align="center">A future machine learning expert, former backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alia749&label=Profile%20views&color=0e75b6&style=flat" alt="alia749" /> </p>
 
