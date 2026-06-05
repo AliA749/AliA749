@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CaterAnyFood](https://github.com/cateranyfood/Architecture)
 
-- 🌱 I’m currently learning **Node.js Crash course**
+- 🌱 I’m currently learning **Rustlings challenge 🦀**
 
 - 👨‍💻 All of my projects are available at [https://great-apricot-133.notion.site/Ali-Alkhulaqi-Professional-Portfolio-19eedcafecf5801bb01aca3c3cfc7160](https://great-apricot-133.notion.site/Ali-Alkhulaqi-Professional-Portfolio-19eedcafecf5801bb01aca3c3cfc7160)
 
