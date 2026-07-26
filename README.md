@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alia749" alt="alia749" /></a> </p>
 
-- 🔭 I’m currently working on [CaterAnyFood](https://github.com/cateranyfood/Architecture)
+- 🔭 I’m currently working on [remarkable_new](https://github.com/AliA749/remarkable_new)
 
-- 🌱 I’m currently learning **Rustlings challenge 🦀**
+- 🌱 I’m currently learning **Python Certification on FreeCodeCamp**
 
-- 👨‍💻 All of my projects are available at [https://great-apricot-133.notion.site/Ali-Alkhulaqi-Professional-Portfolio-19eedcafecf5801bb01aca3c3cfc7160](https://great-apricot-133.notion.site/Ali-Alkhulaqi-Professional-Portfolio-19eedcafecf5801bb01aca3c3cfc7160)
+- 👨‍💻 All of my projects and info are available at [Personal portfolio](https://portfolio--alialkhulaqi211.replit.app/)
 
 - 📫 How to reach me **alialkhulaqi2115@gmail.com**
-
-- 📄 Know about my experiences [https://great-apricot-133.notion.site/Ali-Alkhulaqi-Professional-Portfolio-19eedcafecf5801bb01aca3c3cfc7160](https://great-apricot-133.notion.site/Ali-Alkhulaqi-Professional-Portfolio-19eedcafecf5801bb01aca3c3cfc7160)
 
 - ⚡ Fun fact **I do wrestling, and I play soccer!**
 
